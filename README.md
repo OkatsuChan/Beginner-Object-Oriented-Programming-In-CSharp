@@ -1,8 +1,6 @@
 # Beginner Object Oriented Programming in C# and .NET Core
 
-All of the application contents are in this repository.
+All code contents used for the course called - Beginner Object Oriented Programming In C# and .NET Core.
 
-The applications have been built as part of my course on how to learn C# on Udemy.
-
-Link to the course: https://www.udemy.com/beginner-object-oriented-programming-in-csharp-and-dotnet-core
+You can access the course at: [https://www.udemy.com/course/learn-csharp-by-building-applications/](https://www.udemy.com/course/beginner-object-oriented-programming-in-csharp-and-dotnet-core/)
 
